@@ -17,9 +17,8 @@ class Codechef
 			a = sc.nextInt();
 			b = sc.nextInt();
 			c = sc.nextInt();
-			if(a == 7 || b == 7 ||c == 7 )
+			if(a = 7 || b = 7 ||c = 7 )
 			System.out.println("YES");
-			else
 			System.out.println("NO");
 		}
 	}
