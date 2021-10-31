@@ -1,3 +1,5 @@
+// A program of Matrix Multiplication
+
 import java.util.*;
 class mutiply
 {
@@ -16,3 +18,5 @@ class mutiply
 	System.out.println("\nMultiplication of Matrices:\n");
 	print2dArray(sum);
 }
+
+// End of Program
